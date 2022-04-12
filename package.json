@@ -1,7 +1,4 @@
 {
-  "scripts": {
-    "build": "rm -r public && mkdir public && echo 'Custom Build' > ./public/index.html"
-  },
   "dependencies": {
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",

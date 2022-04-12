@@ -17,7 +17,6 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
    Meals.create(req.body).then(x => res.status(201).send(x))
-   res.send('post meals')
 })
 
 router.put('/:id', (req, res) => {
