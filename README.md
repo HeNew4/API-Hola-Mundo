@@ -1,3 +1,3 @@
-# Leer
+# README
 
-Este documento es de prueba
+Este es una appi del curso HOLA MUNDO
